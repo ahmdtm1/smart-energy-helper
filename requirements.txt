@@ -1,0 +1,15 @@
+streamlit==1.27.0
+packaging==23.2          # required by streamlit 1.27
+openai>=1.12,<2
+plotly
+pandas
+numpy
+requests
+python-dateutil
+PyYAML
+mailtrap
+scikit-learn
+pyarrow
+pytz
+tzlocal
+matplotlib
