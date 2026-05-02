@@ -15,7 +15,7 @@ An AI-powered electricity price dashboard built for my Computer Science final ye
 ## Built with
 - Python
 - Streamlit
-- Anthropic Claude AI
+- CHATGPT AI
 - Octopus Energy API
 
 ## How to run
