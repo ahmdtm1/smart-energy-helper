@@ -18,8 +18,3 @@ An AI-powered electricity price dashboard built for my Computer Science final ye
 - CHATGPT AI
 - Octopus Energy API
 
-## How to run
-1. Clone the repo
-2. Install dependencies: pip install -r requirements.txt
-3. Add your API keys to .streamlit/secrets.toml
-4. Run: streamlit run appp.py
